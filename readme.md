@@ -1,25 +1,6 @@
-# 📁 DBMS-Term Project  
+# 📁 DBMS Project  
 **SQL Query Parsing and Optimization**
 
----
-
-## 👥 Team Members
-- **Preetham Battula**
-- **Sumith Chandra**  
-  [GitHub: sumith2425](https://github.com/sumith2425)
-- **Sathvik Pratapgiri**
-- **Kasyap Kovvuru**  
-  [GitHub: kovvurukasyap](https://github.com/kovvurukasyap)
-- **Jayanth Reddy**
-
----
-
-## 📚 Course Details
-- **Course**: CS30202 - Database Management Systems  
-- **Semester**: Spring 2025  
-- **Institute**: IIT Kharagpur
-
----
 
 ## 🧩 Problem Statement
 
